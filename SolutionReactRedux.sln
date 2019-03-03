@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrontEnd", "FrontEnd\FrontEnd.csproj", "{BDDFEBCC-FE45-4716-B53E-BD00D5955CC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDDFEBCC-FE45-4716-B53E-BD00D5955CC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDDFEBCC-FE45-4716-B53E-BD00D5955CC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDDFEBCC-FE45-4716-B53E-BD00D5955CC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDDFEBCC-FE45-4716-B53E-BD00D5955CC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
