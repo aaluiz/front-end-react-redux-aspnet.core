@@ -2,6 +2,7 @@ import React from 'react';
 import '../_assets/bootstrap/css/bootstrap.css'
 
 const Navigation = props =>{
+return(
 <nav className="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
     <div className="container">
       <a className="navbar-brand" href="#">BASIC APP</a>
@@ -28,6 +29,8 @@ const Navigation = props =>{
       </div>
     </div>
   </nav>
+);
+
 
 }
 
