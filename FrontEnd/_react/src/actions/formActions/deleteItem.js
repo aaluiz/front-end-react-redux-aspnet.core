@@ -1,4 +1,4 @@
-import {FORM_DELETE_ITEM} from '../constants/constants';
+import {FORM_DELETE_ITEM} from '../../constants/constants';
 
 const deleteItem = index => {
     return {

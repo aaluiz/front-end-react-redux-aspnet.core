@@ -1,4 +1,4 @@
-import {FORM_ADD_ITEM} from '../constants/constants';
+import {FORM_ADD_ITEM} from '../../constants/constants';
 
 const addItem = (name, price) => {
     return {
