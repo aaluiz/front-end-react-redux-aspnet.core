@@ -24,6 +24,7 @@
   ],
   "devDependencies": {
     "gulp": "^4.0.0",
-    "recursive-copy": "^2.0.10"
+    "recursive-copy": "^2.0.10",
+    "redux": "^4.0.1"
   }
 }
