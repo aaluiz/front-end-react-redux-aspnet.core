@@ -1,13 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import * as serviceWorker from './serviceWorker';
-import { createStore } from "redux";
+import { createStore, applyMiddleware } from "redux";
 import { Provider } from "react-redux";
 import reducer from './reducers/reducer';
+import promise from 'redux-promise';
 
 import App from './components/App';
 
-var store = createStore(reducer);
+const devTools = window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__();
+
+var store =applyMiddleware(promise)(createStore)(reducer,devTools);
 
 const rootElement = document.getElementById("root");
 
