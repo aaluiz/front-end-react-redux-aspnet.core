@@ -2,7 +2,7 @@ import React from 'react';
 
 const Item = props => {
     return (
-      <div key={props.index}>
+      <div>
         <div>
           Item : {props.name} || Price: {props.price}
         </div>
