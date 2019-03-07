@@ -1,7 +1,7 @@
 # Front-end React Redux com Aspnet.Core
 Aplicação de Front-end React Redux, para implementação em IIS / Kestrel - Aspnet Core 2.2
 
-##Instalação
+## Instalação
 
 1. Realizar o clone no projeto 
 ```bash / cmd 
@@ -18,7 +18,7 @@ npm i
 npm start
 ```
 
-##Sugestão de Desenvolvimento do Front-end Visual Studio Code, com extenção 
+## Sugestão de Desenvolvimento do Front-end Visual Studio Code, com extenção 
 
 * https://code.visualstudio.com/download
 * https://code.visualstudio.com/blogs/2016/02/23/introducing-chrome-debugger-for-vs-code
