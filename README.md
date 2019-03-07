@@ -24,7 +24,7 @@ npm start
 * https://code.visualstudio.com/blogs/2016/02/23/introducing-chrome-debugger-for-vs-code
 * https://medium.com/code-prestige/debugando-react-com-o-vscode-efffc6f08233
 
-## Implantanção em ambiente de teste Asp.net Core - IIS/Kestre
+## Implantanção em ambiente de teste Asp.net Core - IIS/Kestrel
 
 No Visual Studio Code Terminal ou no prompt:
 
