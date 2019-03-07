@@ -20,7 +20,7 @@ const Navigation = props => {
               <Link to="/about" className="nav-link" >About</Link>
             </li>
             <li className="nav-item">
-              <Link to="/feature" className="nav-link" >Feture</Link>
+              <Link to="/feature" className="nav-link" >Feature</Link>
             </li>
           </ul>
         </div>
