@@ -1,4 +1,4 @@
-# front-end-react-redux-aspnet.core
+# Front-end React Redux com Aspnet.Core
 Aplicação de Front-end React Redux, para implementação em IIS / Kestrel - Aspnet Core 2.2
 
 ##Instalação
