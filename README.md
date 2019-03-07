@@ -18,7 +18,7 @@ npm i
 npm start
 ```
 
-## Sugestão de Desenvolvimento do Front-end Visual Studio Code, com extenção 
+## Sugestão de Desenvolvimento do Front-end Visual Studio Code, com extenção para Degug com Google Chrome
 
 * https://code.visualstudio.com/download
 * https://code.visualstudio.com/blogs/2016/02/23/introducing-chrome-debugger-for-vs-code
