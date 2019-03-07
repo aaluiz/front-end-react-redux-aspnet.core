@@ -30,10 +30,8 @@ No Visual Studio Code Terminal ou no prompt:
 
 ```bash / cmd
 npm run build
-gulp
 ```
-O primeiro comando gerará a pasta build com o conteudo otmizado para produção.
-O segundo comando, gulp, faz a transferênica para o projeto no VS 2017. 
+O primeiro comando gerará a pasta build com o conteudo otmizado para produção e transferênica para o projeto no VS 2017. 
 
 No Visual Studio 2017:
 Agora é só rodar a aplicação.
