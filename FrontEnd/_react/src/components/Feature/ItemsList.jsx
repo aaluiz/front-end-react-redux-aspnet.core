@@ -8,7 +8,7 @@ export default props => {
         <Input onAdd={props.onAdd} />
         {props.items.map((item, index) => {
           return (
-            <Item
+            <Item key={index}
               onDelete={props.onDelete}
               index={index}
               name={item.name}
@@ -16,6 +16,7 @@ export default props => {
             />
           );
         })}
+        <br/>
       </div>
     );
   };

@@ -1,7 +1,8 @@
-import ItemsList from '../components/ItemsList';
+import ItemsList from '../components/Feature/ItemsList';
 import addItem from '../actions/formActions/addItem';
 import deleteItem from '../actions/formActions/deleteItem';
 import {connect } from "react-redux";
+
 
 const mapStateToProps = state => {
     return {
