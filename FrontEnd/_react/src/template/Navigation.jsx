@@ -1,4 +1,5 @@
 import React from 'react';
+import {Button} from 'react-bootstrap';
 import {Link} from 'react-router-dom';
 
 const Navigation = props => {
@@ -12,16 +13,12 @@ const Navigation = props => {
         <div className="collapse navbar-collapse" id="navbarResponsive">
           <ul className="navbar-nav ml-auto">
             <li className="nav-item active">
-              <Link to="/" className="nav-link" >Home
-              <span className="sr-only">(current)</span>
+              <Link to="/d" className="nav-link" >
+              <Button variant="primary" size="lg" >    Criar Quizz     </Button>
+             
               </Link>
             </li>
-            <li className="nav-item">
-              <Link to="/about" className="nav-link" >About</Link>
-            </li>
-            <li className="nav-item">
-              <Link to="/feature" className="nav-link" >Feature</Link>
-            </li>
+            
           </ul>
         </div>
       </div>

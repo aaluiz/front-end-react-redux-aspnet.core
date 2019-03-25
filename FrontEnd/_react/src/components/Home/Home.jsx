@@ -3,8 +3,8 @@ import Layout from '../../template/Layout';
 
 const Home = () => {
   return (
-    <Layout pageTitle="Business HomePage" header={true}>
-              
+    <Layout pageTitle="" >
+               <h6>oi mundo novo</h6>
     </Layout>
   );
 };
